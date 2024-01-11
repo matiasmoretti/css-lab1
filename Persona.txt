@@ -2,8 +2,11 @@ Name: Francisco Ferrari
 
 Demographics:
 Age: 45
-Occipation: Programmer
+Occupation: Programmer
 Location: Urban, São Paulo
 
 Background
 Francisco Ferrari, a 45-year-old programmer in São Paulo. With a strong background in computer science, he's a sought-after professional known for his coding expertise. Living in the urban core, Francisco balances his tech career with a vibrant city lifestyle, exploring hidden gems and contributing to the local tech scene.
+
+Challenges
+Staying current in a rapidly evolving field, managing urban complexities, and fostering collaboration in diverse teams. Balancing these challenges with mentoring commitments and community engagement showcases his resilience in the dynamic intersection of technology and city life.
